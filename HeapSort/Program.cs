@@ -8,8 +8,8 @@
             Sort sorter = new Sort();
             DataLoader d = new DataLoader();
             
-            //double[] dataNumber = d.LoadNumber(@"C:\Users\Tomáš Dvořák\Desktop\random_10M_interval.txt");
-            string[] dataString = d.LoadString(@"C:\Users\Tomáš Dvořák\Desktop\random_words_10M.txt");
+            //double[] dataNumber = d.LoadNumber(@"");
+            string[] dataString = d.LoadString(@"");
 
             var sortedData = sorter.SortData(dataString);
 
@@ -17,3 +17,4 @@
         }
     }
 }
+
