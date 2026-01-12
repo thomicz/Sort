@@ -1,0 +1,15 @@
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\bin\Debug\net8.0\MergeSort.exe
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\bin\Debug\net8.0\MergeSort.deps.json
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\bin\Debug\net8.0\MergeSort.runtimeconfig.json
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\bin\Debug\net8.0\MergeSort.dll
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\bin\Debug\net8.0\MergeSort.pdb
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\obj\Debug\net8.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\obj\Debug\net8.0\MergeSort.AssemblyInfoInputs.cache
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\obj\Debug\net8.0\MergeSort.AssemblyInfo.cs
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\obj\Debug\net8.0\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\obj\Debug\net8.0\MergeSort.dll
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\obj\Debug\net8.0\refint\MergeSort.dll
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\obj\Debug\net8.0\MergeSort.pdb
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\obj\Debug\net8.0\MergeSort.genruntimeconfig.cache
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\obj\Debug\net8.0\ref\MergeSort.dll
+C:\Users\Tomáš Dvořák\source\repos\SelectionSort\MergeSort\obj\Debug\net8.0\MergeSort.sourcelink.json
